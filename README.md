@@ -92,7 +92,7 @@ Critical Thinking | Problem-Solving | Leadership | Team Collaboration | Public S
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/TempleAnthony" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub"/>
   </a> 
   &nbsp;&nbsp;&nbsp;
