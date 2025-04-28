@@ -1,6 +1,6 @@
 # Temple Nnanna Idam-Nkama | Cybersecurity Analyst
 
-### 👋 **Hi there, I’m Temple!**
+### 👋 **Hi there! I’m Temple**
 
 A passionate Cybersecurity Analyst committed to securing digital spaces and helping organizations stay resilient against growing cyber threats.
 
