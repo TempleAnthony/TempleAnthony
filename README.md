@@ -1,12 +1,12 @@
 # Temple Nnanna Idam-Nkama | Cybersecurity Analyst
 
-👋 **Hi there, I’m Temple!**
+### 👋 **Hi there, I’m Temple!**
 
 A passionate Cybersecurity Analyst committed to securing digital spaces and helping organizations stay resilient against growing cyber threats.
 
 Through a combination of certifications, hands-on simulations, technical training, and continuous personal development, I have built a strong cybersecurity foundation grounded in real-world applications.
 
-I am focused on Governance, Risk and Compliance Security Operations, Risk Management, Vulnerability Assessment, and Cyber Threat Intelligence.
+I am focused on Governance, Risk and Compliance, Security Operations, Risk Management, Vulnerability Assessment, and Cyber Threat Intelligence.
 
 ---
 
@@ -100,9 +100,7 @@ Critical Thinking | Problem-Solving | Leadership | Team Collaboration | Public S
 
 
 
-- <a href="mailto:templeanthony500@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
-</a>
+- Email: templeanthony500@gmail.com
 
 - Location: Nigeria | Remote and Onsite Opportunities Available
 
