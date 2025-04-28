@@ -1,10 +1,12 @@
 # Temple Nnanna Idam-Nkama | Cybersecurity Analyst
 
-Hi there, I’m Temple, a passionate Cybersecurity Analyst committed to securing digital spaces and helping organizations stay resilient against growing cyber threats.
+👋 **Hi there, I’m Temple!**
+
+A passionate Cybersecurity Analyst committed to securing digital spaces and helping organizations stay resilient against growing cyber threats.
 
 Through a combination of certifications, hands-on simulations, technical training, and continuous personal development, I have built a strong cybersecurity foundation grounded in real-world applications.
 
-I am focused on Security Operations, Risk Management, Vulnerability Assessment, and Cyber Threat Intelligence.
+I am focused on Governance, Risk and Compliance Security Operations, Risk Management, Vulnerability Assessment, and Cyber Threat Intelligence.
 
 ---
 
@@ -46,18 +48,62 @@ I am focused on Security Operations, Risk Management, Vulnerability Assessment, 
 **Technical Skills:**  
 Cybersecurity Fundamentals | Network Security | Risk Assessment | Threat Intelligence | Security Operations | Incident Response Basics | Vulnerability Management | Encryption Techniques
 
-**Tools & Frameworks:**  
-Fortinet | MITRE ATT&CK Framework | Wireshark | Linux | SIEM Platforms | PenTest Platforms | GNU Privacy Guard (GPG) | OpenSSL | Tableau | Jupyter Notebook | Excel
+**🛠Tools & Frameworks:**  
+
+<p align="left">
+  <a href="https://www.fortinet.com/">
+    <img src="https://img.shields.io/badge/Fortinet-EE1C25?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  </a>
+  &nbsp;
+  <a href="https://www.wireshark.org/">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  </a>
+  &nbsp;
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  &nbsp;
+  <a href="https://gnupg.org/">
+    <img src="https://img.shields.io/badge/GPG-0093DD?style=for-the-badge&logo=gnupg&logoColor=white" alt="GPG" />
+  </a>
+  &nbsp;
+  <a href="https://www.tableau.com/">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  </a>
+  &nbsp;
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  </a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  </a>
+</p>
+
 
 **Soft Skills:**  
 Critical Thinking | Problem-Solving | Leadership | Team Collaboration | Public Speaking | Effective Communication
 
 ---
 
-## Contact
+### 🔗 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/temple-nnanna-idam-nkama-cc-gmnse-9b5a78327 
-- Email: templeanthony500@gmail.com
+<p align="left">
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub"/>
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/temple-nnanna-idam-nkama-cc-gmnse-9b5a78327/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="120" height="30" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+- <a href="mailto:templeanthony500@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+</a>
+
 - Location: Nigeria | Remote and Onsite Opportunities Available
 
 ---
