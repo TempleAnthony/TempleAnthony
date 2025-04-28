@@ -41,7 +41,8 @@ I am focused on Governance, Risk and Compliance, Security Operations, Risk Manag
 
   In the TryHackMe Introduction to Cryptography room, I performed symmetric encryption on sensitive files using GNU Privacy Guard (GPG) and OpenSSL. This exercise demonstrated my understanding of symmetric key cryptography and secure file protection techniques, building a strong foundation for implementing encryption methods to maintain data confidentiality.
 
-👉 Check out my repositories for a closer look at my projects!
+👉 Check out my [repositories](https://github.com/TempleAnthony?tab=repositories) for a closer look at my projects!
+
 
 ---
 
