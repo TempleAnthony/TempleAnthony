@@ -103,8 +103,6 @@ Critical Thinking | Problem-Solving | Leadership | Team Collaboration | Public S
 
 
 
-- Email: templeanthony500@gmail.com
-
 - Location: Nigeria | Remote and Onsite Opportunities Available
 
 ---
