@@ -6,7 +6,7 @@ A passionate Cybersecurity Analyst committed to securing digital spaces and help
 
 Through a combination of certifications, hands-on simulations, technical training, and continuous personal development, I have built a strong cybersecurity foundation grounded in real-world applications.
 
-I am focused on Governance, Risk and Compliance, Security Operations, Risk Management, Vulnerability Assessment, and Cyber Threat Intelligence.
+I am focused on Governance, Risk and Compliance, Incident Response, Security Operations, Risk Management, Vulnerability Assessment, and Cyber Threat Intelligence.
 
 ---
 
